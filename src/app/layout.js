@@ -13,7 +13,7 @@ export const metadata = {
   title: "변경원 포트폴리오",
   description: "변경원의 포트폴리오",
   icons: {
-    icon: "/favicon.ico"
+    icon: "/icon.ico"
   }
 };
 
