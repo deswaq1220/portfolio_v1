@@ -19,7 +19,7 @@ const Pointer = () => {
     return () => {
       window.removeEventListener("mousemove", handleMouseMove);
     };
-  }, []);
+  }, [handleMouseMove]);
 
   return (
     <motion.div

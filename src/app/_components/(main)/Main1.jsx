@@ -53,7 +53,7 @@ const Main1 = () => {
   return (
     <section className="w-screen h-[200vh] flex justify-center items-start pt-[50vh]">
       <div className="lg:text-[150px] text-[50px] md:text-[100px] flex items-center flex-col text-white font-leferi leading-relaxed fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-        <TextHover y={yText1}>HELLO! I'M</TextHover>
+        <TextHover y={yText1}>HELLO! I&apos;M</TextHover>
         <TextHover y={yText2}>GYEONGWON</TextHover>
         <TextHover y={yText3}>FRONTEND</TextHover>
         <TextHover y={yText4}>DEVELOPER</TextHover>
