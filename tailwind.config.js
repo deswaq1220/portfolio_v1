@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        pre: ["PretendardVariable"],
+        pre: ["--font-PretendardVariable"],
         gothic: ["DOSGothic"],
         chabb: ["LOTTERIACHAB"],
         leferi: ["LeferiPoint-BlackA"],
