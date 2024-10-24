@@ -191,7 +191,7 @@ const Project = () => {
                   </svg>
                 </div>
               </a>
-              <a href="https://youtu.be/6SKrRlm_-Mg" target="_blank">
+              <a href="https://www.youtube.com/watch?v=ZY1WFfpNE68" target="_blank">
                 <div className="fill-custompurple bg-bgblack cursor-pointer">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
